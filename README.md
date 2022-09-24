@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Pavel.
-- 👀 I'm interested in make programing computer games, site and software!
+- 👀 I'm interested in make programing computer games, website and software!
 - 🌱 I'm currently learning php, mysql!
 - 💞️ I’m looking to collaborate on ...
 - 📫 sofonovpavel2@gmail.com
