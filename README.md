@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Fenix.
 - 👀 I'm interested in make programing computer games, website and software!
-- 📫 sofonovpavel2@gmail.com
+- 📫 fenix23234@outlook.com
 
 <!---
 vitahi/vitahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
